@@ -1,6 +1,6 @@
 node_modules
 .next
-
+**/.vscode/
 dist
-# next.config.*
-# now.json
+next.config.js
+now.json
